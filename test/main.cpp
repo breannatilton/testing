@@ -15,6 +15,7 @@ int main(int argc, const char * argv[]) {
     cout << "testing" << endl;
     cout << "trying one more time" << endl;
     cout << "one more line" << endl;
+    cout << "from ara computer" << endl;
     return 0;
 }
 
